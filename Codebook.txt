@@ -2,9 +2,9 @@ Data Dictionary – finalData.txt
 
 Table with separator space (“ “):
 
-Col	name			        type
-1	Subject 		        Character	
-2	Activity	 	        Character
+Col	name    type
+1	Subject   Character	
+2	Activity  Character
 3	tBodyAcc-mean()-X	  Number
 4	 tBodyAcc-mean()-Y	Number
 5	tBodyAcc-mean()-Z	  Number
