@@ -1,0 +1,73 @@
+Data Dictionary – finalData.txt
+
+Table with separator space (“ “):
+
+Col	name			type
+1	Subject 		Character	
+2	Activity	 	Character
+3	tBodyAcc-mean()-X	Number
+4	 tBodyAcc-mean()-Y	Number
+5	tBodyAcc-mean()-Z	Number
+6 	tBodyAcc-std()-X	Number
+7 	tBodyAcc-std()-Y 	Number
+8 	tBodyAcc-std()-Z 	Number
+9 	tGravityAcc-mean()-X Number
+10 	tGravityAcc-mean()-Y Number
+11 	tGravityAcc-mean()-Z Number
+12 	tGravityAcc-std()-X 	Number
+13 	tGravityAcc-std()-Y 	Number
+14 	tGravityAcc-std()-Z 	Number
+15 	tBodyAccJerk-mean()-X Number
+16 	tBodyAccJerk-mean()-Y Number
+17 	tBodyAccJerk-mean()-Z Number
+18 	tBodyAccJerk-std()-X Number
+19 	tBodyAccJerk-std()-Y Number
+20 	tBodyAccJerk-std()-Z Number
+21 	tBodyGyro-mean()-X Number
+22 	tBodyGyro-mean()-Y Number
+23 	tBodyGyro-mean()-Z Number
+24 	tBodyGyro-std()-X 	Number
+25 	tBodyGyro-std()-Y 	Number
+26 	tBodyGyro-std()-Z 	Number
+27 	tBodyGyroJerk-mean()-X Number
+28 	tBodyGyroJerk-mean()-Y Number
+29 	tBodyGyroJerk-mean()-Z Number
+30 	tBodyGyroJerk-std()-X Number
+31 	tBodyGyroJerk-std()-Y Number
+32 	tBodyGyroJerk-std()-Z Number
+33 	tBodyAccMag-mean() Number
+34 	tBodyAccMag-std() 	Number
+35 	tGravityAccMag-mean() Number
+36 	tGravityAccMag-std() Number
+37 	tBodyAccJerkMag-mean() Number
+38 	tBodyAccJerkMag-std() Number
+39 	tBodyGyroMag-mean() Number
+40 	tBodyGyroMag-std() Number
+41 	tBodyGyroJerkMag-mean() Number
+42 	tBodyGyroJerkMag-std() Number
+43 	fBodyAcc-mean()-X Number
+44 	fBodyAcc-mean()-Y Number
+45 	fBodyAcc-mean()-Z Number
+46 	fBodyAcc-std()-X 	Number
+47 	fBodyAcc-std()-Y 	Number
+48 	fBodyAcc-std()-Z 	Number
+49 	fBodyAccJerk-mean()-X Number
+50 	fBodyAccJerk-mean()-Y Number
+51 	fBodyAccJerk-mean()-Z Number
+52 	fBodyAccJerk-std()-X Number
+53 	fBodyAccJerk-std()-Y Number
+54 	fBodyAccJerk-std()-Z Number
+55 	fBodyGyro-mean()-X Number
+56 	fBodyGyro-mean()-Y Number
+57 	fBodyGyro-mean()-Z Number
+58 	fBodyGyro-std()-X Number
+59 	fBodyGyro-std()-Y Number
+60 	fBodyGyro-std()-Z Number
+61 	fBodyAccMag-mean() Number
+62 	fBodyAccMag-std() Number
+63 	fBodyBodyGyroMag-mean() Number
+64 	fBodyBodyGyroMag-std() Number
+65 	fBodyBodyGyroJerkMag-mean() Number
+66 	fBodyBodyGyroJerkMag-std() Number
+
+
