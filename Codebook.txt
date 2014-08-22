@@ -1,13 +1,13 @@
-Data Dictionary – finalData.txt
+Data Dictionary â€“ finalData.txt
 
-Table with separator space (“ “):
+Table with separator space (â€œ â€œ):
 
-Col	name			type
-1	Subject 		Character	
-2	Activity	 	Character
-3	tBodyAcc-mean()-X	Number
+Col	name			        type
+1	Subject 		        Character	
+2	Activity	 	        Character
+3	tBodyAcc-mean()-X	  Number
 4	 tBodyAcc-mean()-Y	Number
-5	tBodyAcc-mean()-Z	Number
+5	tBodyAcc-mean()-Z	  Number
 6 	tBodyAcc-std()-X	Number
 7 	tBodyAcc-std()-Y 	Number
 8 	tBodyAcc-std()-Z 	Number
